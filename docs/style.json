@@ -5,8 +5,8 @@
       32.213196
     ],
     "zoom": 15.61,
-    "bearing": 18.9,
-    "pitch": 32,
+    "bearing": 32,
+    "pitch": 18.9,
     "glyphs": "https://maps.gsi.go.jp/xyz/noto-jp/{fontstack}/{range}.pbf",
     "sources": {
         "v": {
